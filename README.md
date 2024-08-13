@@ -2,9 +2,7 @@
 # Recyle Radar ♻️
 E waste Facility Locator & Recycling Platform ♻️
 
-A i-nnovate Hackathon by intelliswift Finalist Project **Team Spam Byte From Deogiri Institute of Engineering And Management Studies Chh. Sambhajinagar.**
-
-**Update** : Won The Position of **Second Runner** Up & 30 K price in hackathon at [**i-nnovate Hackathon 2023**](https://www.intelliswift.com/innovate-hackathon) By [Intelliswift Software Pvt. Ltd](https://www.intelliswift.com/) at **Symbiosis International University**
+A Walmart Sparkathon Project
 
 Click on link below to have intro to Recyle Radar :
 
@@ -20,7 +18,7 @@ Click on link below to have demo of our prototype :
 To Setup this project run
 
 ```bash
-git clone https://github.com/shuence/ELocate
+git clone https://github.com/priyankeshh/recycle-radar
 cd Recycle-Radar
 yarn
 yarn dev
@@ -47,6 +45,7 @@ yarn dev
 - **Analytics:** Integrate analytics tools to gather insights into user interactions and improve the platform.
 - **Alerts:** Implement appropriate alerts for errors and successful actions, enhancing the overall user experience.
 - **Rules and Regulations:** Display information on government rules and regulations regarding e-waste management and the latest notifications in the field.
+
 ## What We learned
 
 While building this project, We embarked on our  full-stack journey, The journey was both exciting and challenging, and We learned a lot along the way:
@@ -75,7 +74,6 @@ by intelliswift.
 
 **Database:** MongoDB
 
-
 ## Roadmap
 
 - Implement additional login options, such as Google signup.
@@ -85,12 +83,11 @@ by intelliswift.
 - Implement a user dashboard for managing and tracking bookings.
 - Implement facility dashboard for managing and updating facility info and manage bookings and other data.
 - Implement Admin dashboard for managing and updating facilities, verification, generating various reports and other data.
-# Hi, We are Spam Byte! 👋
 
 
 ## 🚀 About us
 
-We are a team from Deogiri Institute of Engineering And Management Studies Chh. Sambhajinagar.
+We are a team from DTU and GGSIPU
 
 - Kartik Bhasin
 - Khusbu Rai
